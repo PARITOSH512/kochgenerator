@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{701E6E42-2FC4-8701-097A-EEA5A12D4CE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripte/Koch Fractals/KochGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripte/Koch Fractals/KochGenerator.cs" Line="289" Column="54" />
+      <File FileName="Assets/Shader/Shaderlearning.shader" />
+      <File FileName="Assets/Shader/Learning2.shader" />
+      <File FileName="Assets/Scripte/Koch Fractals/KochLine.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7272c6dc-126c-4d2e-81a3-3d2764ca2ae6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
